@@ -1,1 +1,3 @@
-
+if game.PlaceId == 2248408710 then 
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/witnessezcode/witnessezhub/main/destruction%20simulator",true))()
+  end
